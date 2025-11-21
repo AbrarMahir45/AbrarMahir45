@@ -27,10 +27,10 @@ Beyond coding, I love bringing ideas to life through my digital art. My aim is t
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" title="C++"/> <br>C++ </td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/><br>Java </td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" title="C#"/><br>C# </td>
-    <td align="center" width="96"><img src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" alt="icon" width="40" height="40" title="Pyhon"/><br>Unity </td>
+    <td align="center" width="96"><img src="https://icons8.com/icons/set/python" alt="icon" width="40" height="40" title="Pyhon"/><br>Python</td>
     <td align="center" width="96"><img src="https://icon.icepanel.io/Technology/svg/.NET.svg" width="40" height="40" title=".Net"/><br>Dotnet </td>
-    <td align="center" width="96"><img src="https://commons.wikimedia.org/wiki/File:React-icon.svg" alt="icon" width="50" height="50" title="React"/><br>React</td>
-    <td align="center" width="96"><img src="" width="40" height="40" title="photoshop cc 19" /><br>Photoshop</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" title="React"/><br>React</td>
+    <td align="center" width="96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="40" height="40" title="PHP" /><br>PHP</td>
 <!--     <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/clip_studio_paint_macos_bigsur_icon_189480.png" width="40" height="40" title="Clip Studio Paint" /><br>ClipStudio</td> -->
       
  </tr><tr>
