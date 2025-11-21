@@ -27,7 +27,7 @@ Beyond coding, I love bringing ideas to life through my digital art. My aim is t
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" title="C++"/> <br>C++ </td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/><br>Java </td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" title="C#"/><br>C# </td>
-    <td align="center" width="96"><img src="https://icons8.com/icons/set/python" alt="icon" width="40" height="40" title="Pyhon"/><br>Python</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" alt="icon" width="40" height="40" title="Pyhon"/><br>Python</td>
     <td align="center" width="96"><img src="https://icon.icepanel.io/Technology/svg/.NET.svg" width="40" height="40" title=".Net"/><br>Dotnet </td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" title="React"/><br>React</td>
     <td align="center" width="96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="40" height="40" title="PHP" /><br>PHP</td>
@@ -41,6 +41,7 @@ Beyond coding, I love bringing ideas to life through my digital art. My aim is t
     <td align="center" width="96"><img src="https://cdn.iconscout.com/icon/free/png-512/free-jquery-3521520-2945023.png" width="40" height="40" title="jQuery" /><br>jQuery</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=expressjs" width="40" height="40" title="Express.js" /><br>Express.js</td>
     <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="40" height="40" title="Postman API" /><br>Postman</td>
+    <td align="center" width="96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="40" height="40" title="MongoDB" /><br>MongoDB</td>
     
  </tr><tr>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" title="MySQL" /><br>MySQL</td>
@@ -48,8 +49,9 @@ Beyond coding, I love bringing ideas to life through my digital art. My aim is t
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" title="Microsoft SQL Server" /><br>SQLServer</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=visualstudio" width="40" height="40" title="visual studio" /><br>vs</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" title="Visual Studio Code" /><br>VsCode</td>
-    <td align="center" width="96"><img src="https://github.com/npm/logos/blob/master/npm%20logo/npm-logo-red.svg" width="40" height="40" title="node package manager" /><br>npm</td>
+    <td align="center" width="96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40" title="git" /><br>git</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" title="node.js" /><br>node.js</td>
+    <td align="center" width="96"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="40" height="40" title="Tailwind" /><br>Tailwind</td>
      
  </tr>
  </table>
@@ -57,9 +59,9 @@ Beyond coding, I love bringing ideas to life through my digital art. My aim is t
 <details open> 
 <summary><h2 align="left">🛠 Github Stats:</h2></summary>
 <p align="start">
-  <img height="50%" src ="https://github-readme-stats.vercel.app/api?username=navinxqz&theme=react&show_icons=true&hide_border=true&bg_color=0D1117&count_private=true">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navinxqz&theme=react&layout=compact&bg_color=0D1117&card_width=340&hide_border=true&hide=Batchfile,Objective-C,Objective-C++,CMake&include_all_commits=true&count_private=true"/>
-  <img align="center" src ="https://github-readme-activity-graph.vercel.app/graph?username=navinxqz&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=🌌+Contribution+Graph&height=350">
+  <img height="50%" src ="https://github-readme-stats.vercel.app/api?username=AbrarMahir45&theme=react&show_icons=true&hide_border=true&bg_color=0D1117&count_private=true">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarMahir45&theme=react&layout=compact&bg_color=0D1117&card_width=340&hide_border=true&hide=Batchfile,Objective-C,Objective-C++,CMake&include_all_commits=true&count_private=true"/>
+  <img align="center" src ="https://github-readme-activity-graph.vercel.app/graph?username=AbrarMahir45&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=🌌+Contribution+Graph&height=350">
 </p>
 
 <!--  <p align="center"><img height=150px src="https://streak-stats.demolab.com?user=navinxqz&theme=react&hide_border=true&bg_color=0D1117"></p>  -->
